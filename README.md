@@ -2,6 +2,10 @@
 
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
 
+![default-themes](assets/material-defaults.png "default themes")
+
+> Material, Material Darker, Material Deep Ocean, Material Palenight, Material Lighter
+
 ## Install
 
 ### Manual
@@ -34,17 +38,24 @@ See [Colors](#colors) for recommended Vivaldi-Material color/setting combination
 The material theme colors were obtained from [material-theme.com](material-theme-colors).
 
 My recommendation is to use the following values for the Vivaldi settings
-| Vivaldi Setting | Theme Color |
-|-----------------|-------------|
-| Background      | background  |
-| Foreground      | foreground  |
-| Highlight       | comment     |
-| Accent          | selection   |
+| Vivaldi Setting | Recommended | Colorful   |
+|-----------------|-------------|------------|
+| Background      | background  | background |
+| Foreground      | foreground  | foreground |
+| Highlight       | comment     | comment    |
+| Accent          | selection   | accent     |
 
 > Note: `highlight` and `accent` material colors can be difficult to see with their corresponding Vivaldi settings.
 
 If you like a **pop of color** in your theme, I would substitute the `Accent` Vivaldi setting for the Material `accent` color. Below is an example with the default Material Theme.
 
+| Theme              | Recommended                        | Colorful                                    |
+|--------------------|------------------------------------|---------------------------------------------|
+| Material           | ![material-png][material-png]      | ![material-accent-png][material-accent-png] |
+| Material Darker    | ![](assets/material-darker.png)    | ![](assets/material-darker-accent.png)      |
+| Material DeepOcean | ![](assets/material-deepocean.png) | ![](assets/material-deepocean-accent.png)   |
+| Material Lighter   | ![](assets/material-lighter.png)   | ![](assets/material-lighter-accent.png)     |
+| Material Palenight | ![](assets/material-palenight.png) | ![](assets/material-palenight-accent.png)   |
 
 <!-- ## Customize
 
@@ -52,18 +63,9 @@ You may generate a new theme `.json` from an existing theme color palette.
 
 ```python theme.py --create material --accent selection``` -->
 
-## Contributing
-
-If you have any suggestions or features you would like to see included in this project, see [Contributing](CONTRIBUTING.md) for more information.
-
-## License
-
-See the [license] for more information.
-
 <!-- links -->
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
-[default-material-png]:
-[color-material-png]:
-[license]: 
+[material-png]: assets/material.png
+[material-accent-png]: assets/material-accent.png
