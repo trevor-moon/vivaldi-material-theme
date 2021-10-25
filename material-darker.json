@@ -2,6 +2,16 @@
     "background": "#212121",
     "foreground": "#b0bec5",
     "selection": "#404040",
+    "highlight": "#3f3f3f",
     "accent": "#ff9800",
-    "comment": "#616161"
+    "comment": "#616161",
+    "green": "#c3e88d",
+    "yellow": "#ffcb6b",
+    "blue": "#82aaff",
+    "red": "#f07178",
+    "purple": "#c792ea",
+    "orange": "#f78c6c",
+    "cyan": "#89ddff",
+    "gray": "#546e7a",
+    "black": "#eeffff"
 }
