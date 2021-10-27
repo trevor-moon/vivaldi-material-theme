@@ -49,14 +49,6 @@ I like to use the following theme values for the Vivaldi settings.
 
 If you like a **pop of color** in your theme, I would use the *Alternate* or *Colorful* suggestions.
 
-| Theme              | Recommended                        | Colorful                                    |
-|--------------------|------------------------------------|---------------------------------------------|
-| Material           | ![material-png][material-png]      | ![material-accent-png][material-accent-png] |
-| Material Darker    | ![](assets/material-darker.png)    | ![](assets/material-darker-accent.png)      |
-| Material DeepOcean | ![](assets/material-deepocean.png) | ![](assets/material-deepocean-accent.png)   |
-| Material Lighter   | ![](assets/material-lighter.png)   | ![](assets/material-lighter-accent.png)     |
-| Material Palenight | ![](assets/material-palenight.png) | ![](assets/material-palenight-accent.png)   |
-
 <!-- links -->
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
