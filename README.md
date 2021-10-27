@@ -59,6 +59,18 @@ I like to use the following theme colors for the Vivaldi theme settings.
 
 If you like a **pop of color** in your theme, I would use the *Alternate* or *Colorful* suggestions.
 
+## Contributing
+
+If you would like to contribute to this project, feel free to
+
+- [submit a bug][create-issue]
+- [create an issue][create-issue]
+- [request a feature][create-issue]
+- [fork this repo][fork-repo]
+- [create a pull-request][create-pull-request]
+
+Please [email me][email] if you have any other questions or feedback!
+
 <!-- links -->
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
@@ -74,3 +86,7 @@ If you like a **pop of color** in your theme, I would use the *Alternate* or *Co
 [material-deepocean-json]: material-deepocean.json
 [material-palenight-json]: material-palenight.json
 [material-lighter-json]: material-lighter.json
+[create-issue]: https://github.com/trevor-moon/material-vivaldi/issues
+[fork-repo]: https://github.com/trevor-moon/material-vivaldi/fork
+[create-pull-request]: https://github.com/trevor-moon/material-vivaldi/pulls
+[email]: mailto:trevor.r.moon@gmail.com
