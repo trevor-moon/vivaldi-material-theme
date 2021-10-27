@@ -18,12 +18,14 @@ The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][
 3. Click the `+` and enter a name (e.g., Material)
 4. Copy the theme's `.json` values to the Vivaldi theme
 
-For example, if I want the traditional Material theme, use the colors from [material.json](material.json)
+For example, if I want the traditional [Material][material-json] theme:
 
 - Background: `#263238`
 - Foreground: `#b0bec5`
 - Highlight: `#546e7a`
 - Accent: `#546e7a`
+
+See [Themes](#themes) for the available Material Theme color palettes.
 
 See [Colors](#colors) for recommended Vivaldi-Material color/setting combinations.
 
@@ -33,11 +35,19 @@ See [Colors](#colors) for recommended Vivaldi-Material color/setting combination
 
 *If you have ideas how to automatically generate/update/sync Vivaldi themes, please see [Contributing](#contributing). I would love to have this feature.*
 
-## Colors
+## Themes
 
-The material theme colors were obtained from [material-theme.com](material-theme-colors).
+The Vivaldi themes are created from the color palettes found [here][material-theme-colors].
 
-I like to use the following theme values for the Vivaldi settings.
+- [Material][material-json]
+- [Material Darker][material-darker-json]
+- [Material Deep Ocean][material-deepocean-json]
+- [Material Palenight][material-palenight-json]
+- [Material Lighter][material-lighter-json]
+
+### Colors
+
+I like to use the following theme colors for the Vivaldi theme settings.
 | Vivaldi Setting | Default    | Alternate    | Colorful     |
 |-----------------|------------|--------------|--------------|
 | Background      | background | background   | background   |
@@ -59,3 +69,8 @@ If you like a **pop of color** in your theme, I would use the *Alternate* or *Co
 [material-deepocean]: assets/material-deepocean.png
 [material-lighter]: assets/material-lighter.png
 [material-palenight]: assets/material-palenight.png
+[material-json]: material.json
+[material-darker-json]: material-darker.json
+[material-deepocean-json]: material-deepocean.json
+[material-palenight-json]: material-palenight.json
+[material-lighter-json]: material-lighter.json
