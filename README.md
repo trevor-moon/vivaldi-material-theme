@@ -53,7 +53,7 @@ If you like a **pop of color** in your theme, I would use the *Alternate* or *Co
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
-[material-cover]: assets/material-cover.png
+[material-cover]: assets/material-defaults.png
 [material]: assets/material.png
 [material-darker]: assets/material-darker.png
 [material-deepocean]: assets/material-deepocean.png
