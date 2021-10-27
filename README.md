@@ -4,7 +4,7 @@ The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][
 
 ![default-themes](assets/material-defaults.png "default themes")
 
-> Material, Material Darker, Material Deep Ocean, Material Palenight, Material Lighter
+> [Material][material], [Material Darker][material-darker], [Material Deep Ocean][material-deepocean], [Material Palenight][material-palenight], [Material Lighter][material-lighter]
 
 ## Install
 
@@ -69,3 +69,8 @@ You may generate a new theme `.json` from an existing theme color palette.
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
 [material-png]: assets/material.png
 [material-accent-png]: assets/material-accent.png
+[material]: assets/material.png
+[material-darker]: assets/material-darker.png
+[material-deepocean]: assets/material-deepocean.png
+[material-lighter]: assets/material-lighter.png
+[material-palenight]: assets/material-palenight.png
