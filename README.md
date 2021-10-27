@@ -4,7 +4,7 @@ The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][
 
 ![default-themes](assets/material-defaults.png "default themes")
 
-> Material, Material Darker, Material Deep Ocean, Material Palenight, Material Lighter
+> [Material][material], [Material Darker][material-darker], [Material Deep Ocean][material-deepocean], [Material Palenight][material-palenight], [Material Lighter][material-lighter]
 
 ## Install
 
@@ -37,17 +37,17 @@ See [Colors](#colors) for recommended Vivaldi-Material color/setting combination
 
 The material theme colors were obtained from [material-theme.com](material-theme-colors).
 
-My recommendation is to use the following values for the Vivaldi settings
-| Vivaldi Setting | Recommended | Colorful   |
-|-----------------|-------------|------------|
-| Background      | background  | background |
-| Foreground      | foreground  | foreground |
-| Highlight       | comment     | comment    |
-| Accent          | selection   | accent     |
+I like to use the following theme values for the Vivaldi settings.
+| Vivaldi Setting | Default    | Alternate    | Colorful     |
+|-----------------|------------|--------------|--------------|
+| Background      | background | background   | background   |
+| Foreground      | foreground | foreground   | foreground   |
+| Highlight       | comment    | accent/color | accent/color |
+| Accent          | selection  | selection    | accent/color |
 
-> Note: `highlight` and `accent` material colors can be difficult to see with their corresponding Vivaldi settings.
+> Note: Some `highlight` and `accent` material colors can be difficult to see with their corresponding Vivaldi settings.
 
-If you like a **pop of color** in your theme, I would substitute the `Accent` Vivaldi setting for the Material `accent` color. Below is an example with the default Material Theme.
+If you like a **pop of color** in your theme, I would use the *Alternate* or *Colorful* suggestions.
 
 | Theme              | Recommended                        | Colorful                                    |
 |--------------------|------------------------------------|---------------------------------------------|
@@ -57,15 +57,14 @@ If you like a **pop of color** in your theme, I would substitute the `Accent` Vi
 | Material Lighter   | ![](assets/material-lighter.png)   | ![](assets/material-lighter-accent.png)     |
 | Material Palenight | ![](assets/material-palenight.png) | ![](assets/material-palenight-accent.png)   |
 
-<!-- ## Customize
-
-You may generate a new theme `.json` from an existing theme color palette.
-
-```python theme.py --create material --accent selection``` -->
-
 <!-- links -->
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
 [material-png]: assets/material.png
 [material-accent-png]: assets/material-accent.png
+[material]: assets/material.png
+[material-darker]: assets/material-darker.png
+[material-deepocean]: assets/material-deepocean.png
+[material-lighter]: assets/material-lighter.png
+[material-palenight]: assets/material-palenight.png
