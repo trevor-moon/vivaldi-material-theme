@@ -2,7 +2,7 @@
 
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
 
-![default-themes](assets/material-defaults.png "default themes")
+![default-themes][material-cover]
 
 > [Material][material], [Material Darker][material-darker], [Material Deep Ocean][material-deepocean], [Material Palenight][material-palenight], [Material Lighter][material-lighter]
 
@@ -53,8 +53,7 @@ If you like a **pop of color** in your theme, I would use the *Alternate* or *Co
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
-[material-png]: assets/material.png
-[material-accent-png]: assets/material-accent.png
+[material-cover]: assets/material-cover.png
 [material]: assets/material.png
 [material-darker]: assets/material-darker.png
 [material-deepocean]: assets/material-deepocean.png
