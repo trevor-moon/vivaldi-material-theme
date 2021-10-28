@@ -1,3 +1,9 @@
+<p align="center">
+   <img src="assests/../assets/vivaldi_web_browser_logo_material.png" width="300" height="300" />
+</p>
+
+---
+
 # Vivaldi Material Theme
 
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
@@ -72,6 +78,7 @@ If you would like to contribute to this project, feel free to
 Please [email me][email] if you have any other questions or feedback!
 
 <!-- links -->
+[Vivaldi-Material-Theme]: assets/vivaldi_web_browser_logo_material.png
 [vivaldi]: https://vivaldi.com
 [material-web]: https://material-theme.site
 [material-theme-colors]: https://material-theme.com/docs/reference/color-palette/
