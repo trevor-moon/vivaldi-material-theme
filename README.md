@@ -1,10 +1,17 @@
 <p align="center">
-   <img src="assests/../assets/vivaldi_web_browser_logo_material.svg" width="300" height="300" />
+   <img src="assets/vivaldi_web_browser_logo_material.svg" width="250" height="250" />
 </p>
 
----
+<p align="center">
+<!-- <img src="https://img.shields.io/github/v/release/trevor-moon/vivaldi-material-theme" /> -->
+<img src="https://img.shields.io/github/stars/trevor-moon/vivaldi-material-theme" /></a>
+<img src="https://img.shields.io/github/forks/trevor-moon/vivaldi-material-theme" />
+<img src="https://img.shields.io/github/watchers/trevor-moon/vivaldi-material-theme" />
+<img src="https://img.shields.io/github/downloads/trevor-moon/vivaldi-material-theme/total" />
+<!-- <img src="https://img.shields.io/github/all-contributors/trevor-moon/vivaldi-material-theme/main?label=contributors" /> -->
+</p>
 
-# Vivaldi Material Theme
+<h1 align="center">Vivaldi Material Theme</h1>
 
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
 
