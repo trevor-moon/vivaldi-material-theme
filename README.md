@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="assests/../assets/vivaldi_web_browser_logo_material.png" width="300" height="300" />
+   <img src="assests/../assets/vivaldi_web_browser_logo_material.svg" width="300" height="300" />
 </p>
 
 ---
