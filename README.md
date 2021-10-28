@@ -1,17 +1,18 @@
 <p align="center">
-   <img src="assets/vivaldi_web_browser_logo_material.svg" width="250" height="250" />
+   <img src="assets/vivaldi_web_browser_logo_material.svg" width="300" height="300" />
 </p>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/github/v/release/trevor-moon/vivaldi-material-theme" /> -->
+<img src="https://img.shields.io/github/v/release/trevor-moon/vivaldi-material-theme" />
 <img src="https://img.shields.io/github/stars/trevor-moon/vivaldi-material-theme" /></a>
 <img src="https://img.shields.io/github/forks/trevor-moon/vivaldi-material-theme" />
 <img src="https://img.shields.io/github/watchers/trevor-moon/vivaldi-material-theme" />
 <img src="https://img.shields.io/github/downloads/trevor-moon/vivaldi-material-theme/total" />
 <!-- <img src="https://img.shields.io/github/all-contributors/trevor-moon/vivaldi-material-theme/main?label=contributors" /> -->
+<img src="https://img.shields.io/github/license/trevor-moon/vivaldi-material-theme" />
 </p>
 
-<h1 align="center">Vivaldi Material Theme</h1>
+<h1 align="">Vivaldi Material Theme</h1>
 
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
 
@@ -40,7 +41,7 @@ For example, if I want the traditional [Material][material-json] theme:
 
 See [Themes](#themes) for the available Material Theme color palettes.
 
-See [Colors](#colors) for recommended Vivaldi-Material color/setting combinations.
+See [Recommendations](#recommendations) for recommended Vivaldi-Material color/setting combinations.
 
 ### Automatic
 
@@ -50,7 +51,7 @@ See [Colors](#colors) for recommended Vivaldi-Material color/setting combination
 
 ## Themes
 
-The Vivaldi themes are created from the color palettes found [here][material-theme-colors].
+The Material Themes are created from the color palettes found [here][material-theme-colors].
 
 - [Material][material-json]
 - [Material Darker][material-darker-json]
@@ -58,7 +59,7 @@ The Vivaldi themes are created from the color palettes found [here][material-the
 - [Material Palenight][material-palenight-json]
 - [Material Lighter][material-lighter-json]
 
-### Colors
+### Recommendations
 
 I like to use the following theme colors for the Vivaldi theme settings.
 | Vivaldi Setting | Default    | Alternate    | Colorful     |
