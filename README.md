@@ -96,11 +96,11 @@ Please [email me][email] if you have any other questions or feedback!
 [material-deepocean]: assets/material-deepocean.png
 [material-lighter]: assets/material-lighter.png
 [material-palenight]: assets/material-palenight.png
-[material-json]: material.json
-[material-darker-json]: material-darker.json
-[material-deepocean-json]: material-deepocean.json
-[material-palenight-json]: material-palenight.json
-[material-lighter-json]: material-lighter.json
+[material-json]: colors/material.json
+[material-darker-json]: colors/material-darker.json
+[material-deepocean-json]: colors/material-deepocean.json
+[material-palenight-json]: colors/material-palenight.json
+[material-lighter-json]: colors/material-lighter.json
 [create-issue]: https://github.com/trevor-moon/material-vivaldi/issues
 [fork-repo]: https://github.com/trevor-moon/material-vivaldi/fork
 [create-pull-request]: https://github.com/trevor-moon/material-vivaldi/pulls
