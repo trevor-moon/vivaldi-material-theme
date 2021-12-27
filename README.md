@@ -14,6 +14,8 @@
 
 <h1 align="">Vivaldi Material Theme</h1>
 
+**I will be migrating these themes to my [other project](https://github.com/trevor-moon/vivaldi-themes) to keep all my themes in one location. I will reference [this project](https://github.com/trevor-moon/vivaldi-material-theme) as I migrate things over.**
+
 The minimal dark theme inspired by [Material Theme][material-web] for [Vivaldi][vivaldi] web browser.
 
 ![default-themes][material-cover]
